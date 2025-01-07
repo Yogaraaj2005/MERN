@@ -1,0 +1,10 @@
+body{
+    background-color: lightgreen;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    border: 1px solid red;
+    padding: 50px;
+    margin-right: 150px;
+}
