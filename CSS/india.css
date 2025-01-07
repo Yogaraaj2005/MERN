@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 700px;
+    width: 700px;
+}
+
+.part {
+    height: 200px;
+    width: 700px;
+}
+
+#top {
+    background-color: orange;
+}
+
+#mid {
+    background-color: white;
+}
+
+#bot {
+    background-color: green;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
